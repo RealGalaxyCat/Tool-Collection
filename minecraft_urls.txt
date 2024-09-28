@@ -1,0 +1,139 @@
+
+[Info: 2024-08-25 11:32:37.6754215: NetQueue.cpp(213)(T:vEuHtVAuP3g=)] NetQueue: Starting net action https://client.discovery.minecraft-services.net/api/v1.0/discovery/MinecraftPE/builds/1.18.12
+
+[Info: 2024-08-25 11:32:37.9422371: CurlNetQueue.cpp(578)(T:vEuHtVAuP3g=)] NetQueue: Primary ip: 2620:1ec:bdf::60, Host: client.discovery.minecraft-services.net
+
+[Info: 2024-08-25 11:32:37.9423526: NetQueue.cpp(102)(T:vEuHtVAuP3g=)] NetQueue: Action finished: https://client.discovery.minecraft-services.net/api/v1.0/discovery/MinecraftPE/builds/1.18.12
+
+[Info: 2024-08-25 11:32:37.9427892: NetQueue.cpp(133)(T:vEuHtVAuP3g=)] Action finalized: https://client.discovery.minecraft-services.net/api/v1.0/discovery/MinecraftPE/builds/1.18.12
+
+[Info: 2024-08-25 11:32:37.9556604: NetQueue.cpp(213)(T:vEuHtVAuP3g=)] NetQueue: Starting net action https://redstone-launcher.mojang.com/release/v2/products/launcher/f8ed2cc81a1e57977c3d5c57472cf6e978e1ff61/gamecore.json
+
+[Info: 2024-08-25 11:32:38.3480071: CurlNetQueue.cpp(578)(T:vEuHtVAuP3g=)] NetQueue: Primary ip: 2620:1ec:bdf::60, Host: redstone-launcher.mojang.com
+
+[Info: 2024-08-25 11:32:38.3481210: NetQueue.cpp(102)(T:vEuHtVAuP3g=)] NetQueue: Action finished: https://redstone-launcher.mojang.com/release/v2/products/launcher/f8ed2cc81a1e57977c3d5c57472cf6e978e1ff61/gamecore.json
+
+[Info: 2024-08-25 11:32:38.3485706: NetQueue.cpp(133)(T:vEuHtVAuP3g=)] Action finalized: https://redstone-launcher.mojang.com/release/v2/products/launcher/f8ed2cc81a1e57977c3d5c57472cf6e978e1ff61/gamecore.json
+
+[Info: 2024-08-25 11:32:38.4514587: FEcELsF9600=: NetQueue.cpp(213)] NetQueue: Starting net action https://www.xboxab.com/ab
+
+[Info: 2024-08-25 11:32:38.9917494: FEcELsF9600=: NetQueue.cpp(213)] NetQueue: Starting net action https://launchermeta.mojang.com/v1/products/java-runtime/2ec0cc96c44e5a76b9c8b7c39df7210883d12871/all.json
+
+[Info: 2024-08-25 11:32:39.1179277: FEcELsF9600=: CurlNetQueue.cpp(578)] NetQueue: Primary ip: 2620:1ec:bdf::44, Host: launchermeta.mojang.com
+[Info: 2024-08-25 11:32:39.1180495: FEcELsF9600=: NetQueue.cpp(102)] NetQueue: Action finished: https://launchermeta.mojang.com/v1/products/java-runtime/2ec0cc96c44e5a76b9c8b7c39df7210883d12871/all.json
+[Info: 2024-08-25 11:32:39.1180866: FEcELsF9600=: NetQueue.cpp(133)] Action finalized: https://launchermeta.mojang.com/v1/products/java-runtime/2ec0cc96c44e5a76b9c8b7c39df7210883d12871/all.json
+[Info: 2024-08-25 11:32:39.1220894: FEcELsF9600=: NetQueue.cpp(213)] NetQueue: Starting net action https://launchermeta.mojang.com/mc/game/version_manifest_v2.json
+[Info: 2024-08-25 11:32:39.1901463: FEcELsF9600=: CurlNetQueue.cpp(578)] NetQueue: Primary ip: 2620:1ec:bdf::44, Host: launchermeta.mojang.com
+[Info: 2024-08-25 11:32:39.1902306: FEcELsF9600=: NetQueue.cpp(102)] NetQueue: Action finished: https://launchermeta.mojang.com/mc/game/version_manifest_v2.json
+[Info: 2024-08-25 11:32:39.1902695: FEcELsF9600=: NetQueue.cpp(133)] Action finalized: https://launchermeta.mojang.com/mc/game/version_manifest_v2.json
+[Info: 2024-08-25 11:32:39.1903985: tElP0FuQqcE=: GameVersionManager.cpp(437)] Got available versions manifest from https://launchermeta.mojang.com/mc/game/version_manifest_v2.json
+
+[Info: 2024-08-25 11:32:40.5460039: tnJQJkWwmMw=: LauncherAppRenderer.cpp(325)] OnContextCreated: main frame. Url=https://mojang/launcher/index.html browser id=1
+
+[Info: 2024-08-25 11:32:41.8642906: FEcELsF9600=: NetQueue.cpp(213)] NetQueue: Starting net action https://launchercontent.mojang.com/v2/promotionalCalendars.json
+[Info: 2024-08-25 11:32:41.8733377: tnJQJkWwmMw=: LauncherAppRenderer.cpp(294)] MCLauncher.triggerUpdateEvent("coreEvent.productInfo");
+[Info: 2024-08-25 11:32:41.8743021: tnJQJkWwmMw=: LauncherAppRenderer.cpp(294)] MCLauncher.triggerUpdateEvent("coreEvent.gameInstances");
+[Info: 2024-08-25 11:32:41.8750018: FEcELsF9600=: NetQueue.cpp(213)] NetQueue: Starting net action https://launchercontent.mojang.com/v2/games.json
+[Info: 2024-08-25 11:32:41.8839421: FEcELsF9600=: NetQueue.cpp(213)] NetQueue: Starting net action https://launchercontent.mojang.com/v2/launcherPatchNotes_v2.json
+[Info: 2024-08-25 11:32:41.8840758: FEcELsF9600=: NetQueue.cpp(213)] NetQueue: Starting net action https://launchercontent.mojang.com/v2/alertMessaging.json
+
+[Info: 2024-08-25 11:32:41.9748342: FEcELsF9600=: NetQueue.cpp(102)] NetQueue: Action finished: https://launchercontent.mojang.com/v2/promotionalCalendars.json
+[Info: 2024-08-25 11:32:41.9749156: FEcELsF9600=: NetQueue.cpp(133)] Action finalized: https://launchercontent.mojang.com/v2/promotionalCalendars.json
+[Info: 2024-08-25 11:32:41.9934824: FEcELsF9600=: CurlNetQueue.cpp(578)] NetQueue: Primary ip: 2620:1ec:bdf::60, Host: launchercontent.mojang.com
+[Info: 2024-08-25 11:32:41.9935757: FEcELsF9600=: NetQueue.cpp(102)] NetQueue: Action finished: https://launchercontent.mojang.com/v2/alertMessaging.json
+[Info: 2024-08-25 11:32:41.9936484: FEcELsF9600=: NetQueue.cpp(133)] Action finalized: https://launchercontent.mojang.com/v2/alertMessaging.json
+[Info: 2024-08-25 11:32:41.9965312: FEcELsF9600=: CurlNetQueue.cpp(578)] NetQueue: Primary ip: 2620:1ec:bdf::60, Host: launchercontent.mojang.com
+[Info: 2024-08-25 11:32:41.9966137: FEcELsF9600=: NetQueue.cpp(102)] NetQueue: Action finished: https://launchercontent.mojang.com/v2/games.json
+[Info: 2024-08-25 11:32:41.9966790: FEcELsF9600=: NetQueue.cpp(133)] Action finalized: https://launchercontent.mojang.com/v2/games.json
+[Info: 2024-08-25 11:32:41.9992238: FEcELsF9600=: CurlNetQueue.cpp(578)] NetQueue: Primary ip: 2620:1ec:bdf::60, Host: launchercontent.mojang.com
+[Info: 2024-08-25 11:32:41.9993056: FEcELsF9600=: NetQueue.cpp(102)] NetQueue: Action finished: https://launchercontent.mojang.com/v2/launcherPatchNotes_v2.json
+[Info: 2024-08-25 11:32:41.9994107: FEcELsF9600=: NetQueue.cpp(133)] Action finalized: https://launchercontent.mojang.com/v2/launcherPatchNotes_v2.json
+[Info: 2024-08-25 11:32:42.0027398: FEcELsF9600=: NetQueue.cpp(213)] NetQueue: Starting net action https://launchercontent.mojang.com/v2/images/MCVTrickyTrialsHero1640x758.jpeg
+
+[Info: 2024-08-25 11:32:42.1494440: FEcELsF9600=: NetQueue.cpp(102)] NetQueue: Action finished: https://launchercontent.mojang.com/v2/images/MCVTrickyTrialsHero1640x758.jpeg
+[Info: 2024-08-25 11:32:42.1497427: FEcELsF9600=: NetQueue.cpp(133)] Action finalized: https://launchercontent.mojang.com/v2/images/MCVTrickyTrialsHero1640x758.jpeg
+[Info: 2024-08-25 11:32:42.1931994: FEcELsF9600=: CurlNetQueue.cpp(578)] NetQueue: Primary ip: 2620:1ec:bdf::60, Host: launchercontent.mojang.com
+[Info: 2024-08-25 11:32:42.1933029: FEcELsF9600=: NetQueue.cpp(102)] NetQueue: Action finished: https://launchercontent.mojang.com/v2/images/2beS7kExnC1ruqkKRmgpC1MCLiveBackGround.jpeg
+[Info: 2024-08-25 11:32:42.1936038: FEcELsF9600=: NetQueue.cpp(133)] Action finalized: https://launchercontent.mojang.com/v2/images/2beS7kExnC1ruqkKRmgpC1MCLiveBackGround.jpeg
+
+[Info: 2024-08-25 11:32:42.6823274: FEcELsF9600=: NetQueue.cpp(213)] NetQueue: Starting net action https://api.minecraftservices.com/launcher/login
+[Info: 2024-08-25 11:32:43.5268901: FEcELsF9600=: CurlNetQueue.cpp(578)] NetQueue: Primary ip: 2620:1ec:bdf::60, Host: api.minecraftservices.com
+[Info: 2024-08-25 11:32:43.5270258: FEcELsF9600=: NetQueue.cpp(102)] NetQueue: Action finished: https://api.minecraftservices.com/launcher/login
+[Info: 2024-08-25 11:32:43.5273814: FEcELsF9600=: MinecraftServicesApi.cpp(489)] Signed in to minecraft services with user <USERNAME>
+[Info: 2024-08-25 11:32:43.5274717: FEcELsF9600=: NetQueue.cpp(133)] Action finalized: https://api.minecraftservices.com/launcher/login
+[Info: 2024-08-25 11:32:43.5275227: dawWOnSVoDg=: UserIdentity.cpp(1127)] Using new token
+[Info: 2024-08-25 11:32:43.5276491: dawWOnSVoDg=: UserIdentity.cpp(1136)] Current token [with-refresh:true] - [notnull]
+[Info: 2024-08-25 11:32:43.5277612: dawWOnSVoDg=: UnifiedMSAAccounts.cpp(380)] Added/Updated account : [not empty][not empty][not empty][not empty]
+[Info: 2024-08-25 11:32:43.5278702: dawWOnSVoDg=: UserIdentity.cpp(501)] Got gamer tag - [0][not empty]
+[Info: 2024-08-25 11:32:43.5279588: dawWOnSVoDg=: UserIdentity.cpp(516)] Got gamer age group - [0]
+[Info: 2024-08-25 11:32:43.5587387: h9mHWkfxurA=: UserIdentity.cpp(577)] Got a network status: 3
+[Info: 2024-08-25 11:32:44.4536431: dawWOnSVoDg=: UserIdentity.cpp(577)] Got a network status: 3
+[Info: 2024-08-25 11:32:45.5355118: dawWOnSVoDg=: UserIdentity.cpp(701)] Successfully retrieved token
+
+[Info: 2024-08-25 11:32:45.5358629: FEcELsF9600=: NetQueue.cpp(213)] NetQueue: Starting net action https://client.discovery.minecraft-services.net/api/v1.0/discovery/MinecraftPE/builds/1.18.12
+[Info: 2024-08-25 11:32:45.6575368: FEcELsF9600=: CurlNetQueue.cpp(578)] NetQueue: Primary ip: 2620:1ec:bdf::60, Host: client.discovery.minecraft-services.net
+[Info: 2024-08-25 11:32:45.6576313: FEcELsF9600=: NetQueue.cpp(102)] NetQueue: Action finished: https://client.discovery.minecraft-services.net/api/v1.0/discovery/MinecraftPE/builds/1.18.12
+[Info: 2024-08-25 11:32:45.6578735: FEcELsF9600=: NetQueue.cpp(133)] Action finalized: https://client.discovery.minecraft-services.net/api/v1.0/discovery/MinecraftPE/builds/1.18.12
+[Info: 2024-08-25 11:32:45.6583917: FEcELsF9600=: NetQueue.cpp(213)] NetQueue: Starting net action https://authorization.franchise.minecraft-services.net/api/v1.0/session/start
+[Info: 2024-08-25 11:32:46.1775512: FEcELsF9600=: CurlNetQueue.cpp(578)] NetQueue: Primary ip: 2620:1ec:bdf::60, Host: authorization.franchise.minecraft-services.net
+[Info: 2024-08-25 11:32:46.1776972: FEcELsF9600=: NetQueue.cpp(102)] NetQueue: Action finished: https://authorization.franchise.minecraft-services.net/api/v1.0/session/start
+[Info: 2024-08-25 11:32:46.2545071: FEcELsF9600=: Auth.cpp(217)] Successfully added/updated token to STS
+[Info: 2024-08-25 11:32:46.2546493: FEcELsF9600=: NetQueue.cpp(133)] Action finalized: https://authorization.franchise.minecraft-services.net/api/v1.0/session/start
+
+[Info: 2024-08-25 11:32:46.2573365: FEcELsF9600=: NetQueue.cpp(213)] NetQueue: Starting net action https://api.minecraftservices.com/events
+
+[Info: 2024-08-25 11:32:46.6057901: FEcELsF9600=: NetQueue.cpp(213)] NetQueue: Starting net action https://redstone-launcher.mojang.com/release/v2/products/launcher/f8ed2cc81a1e57977c3d5c57472cf6e978e1ff61/gamecore.json
+[Info: 2024-08-25 11:32:46.6077237: FEcELsF9600=: CurlNetQueue.cpp(578)] NetQueue: Primary ip: 2620:1ec:bdf::60, Host: api.minecraftservices.com
+[Info: 2024-08-25 11:32:46.6078116: FEcELsF9600=: NetQueue.cpp(102)] NetQueue: Action finished: https://api.minecraftservices.com/events
+[Info: 2024-08-25 11:32:46.6079276: FEcELsF9600=: NetQueue.cpp(133)] Action finalized: https://api.minecraftservices.com/events
+[Info: 2024-08-25 11:32:46.7338086: FEcELsF9600=: CurlNetQueue.cpp(578)] NetQueue: Primary ip: 2620:1ec:bdf::60, Host: redstone-launcher.mojang.com
+[Info: 2024-08-25 11:32:46.7339018: FEcELsF9600=: NetQueue.cpp(102)] NetQueue: Action finished: https://redstone-launcher.mojang.com/release/v2/products/launcher/f8ed2cc81a1e57977c3d5c57472cf6e978e1ff61/gamecore.json
+[Info: 2024-08-25 11:32:46.7341344: FEcELsF9600=: NetQueue.cpp(133)] Action finalized: https://redstone-launcher.mojang.com/release/v2/products/launcher/f8ed2cc81a1e57977c3d5c57472cf6e978e1ff61/gamecore.json
+
+[Info: 2024-08-25 11:32:47.1178088: FEcELsF9600=: NetQueue.cpp(213)] NetQueue: Starting net action https://launchercontent.mojang.com/v2/news.json
+[Info: 2024-08-25 11:32:47.1432669: FEcELsF9600=: NetQueue.cpp(213)] NetQueue: Starting net action https://launchercontent.mojang.com/v2/highlightDialogs.json
+[Info: 2024-08-25 11:32:47.1434522: FEcELsF9600=: NetQueue.cpp(213)] NetQueue: Starting net action https://launchercontent.mojang.com/v2/voteEvent.json
+
+[Info: 2024-08-25 11:32:47.2499221: FEcELsF9600=: NetQueue.cpp(102)] NetQueue: Action finished: https://launchercontent.mojang.com/v2/voteEvent.json
+[Info: 2024-08-25 11:32:47.2500268: FEcELsF9600=: NetQueue.cpp(133)] Action finalized: https://launchercontent.mojang.com/v2/voteEvent.json
+[Info: 2024-08-25 11:32:47.2513601: FEcELsF9600=: CurlNetQueue.cpp(578)] NetQueue: Primary ip: 2620:1ec:bdf::60, Host: launchercontent.mojang.com
+[Info: 2024-08-25 11:32:47.2514348: FEcELsF9600=: CurlNetQueue.cpp(578)] NetQueue: Primary ip: 2620:1ec:bdf::60, Host: launchercontent.mojang.com
+[Info: 2024-08-25 11:32:47.2514823: FEcELsF9600=: NetQueue.cpp(102)] NetQueue: Action finished: https://launchercontent.mojang.com/v2/news.json
+[Info: 2024-08-25 11:32:47.2515581: FEcELsF9600=: NetQueue.cpp(133)] Action finalized: https://launchercontent.mojang.com/v2/news.json
+[Info: 2024-08-25 11:32:47.2516980: FEcELsF9600=: NetQueue.cpp(102)] NetQueue: Action finished: https://launchercontent.mojang.com/v2/highlightDialogs.json
+[Info: 2024-08-25 11:32:47.2517785: FEcELsF9600=: NetQueue.cpp(133)] Action finalized: https://launchercontent.mojang.com/v2/highlightDialogs.json
+
+[Info: 2024-08-25 11:32:47.3804578: FEcELsF9600=: NetQueue.cpp(213)] NetQueue: Starting net action https://pc.realms.minecraft.net/invites/pending/
+[Info: 2024-08-25 11:32:47.6911358: FEcELsF9600=: NetQueue.cpp(102)] NetQueue: Action finished: https://pc.realms.minecraft.net/invites/pending/
+[Info: 2024-08-25 11:32:47.6912358: FEcELsF9600=: NetQueue.cpp(133)] Action finalized: https://pc.realms.minecraft.net/invites/pending/
+
+[Info: 2024-08-25 11:32:47.9267013: FEcELsF9600=: NetQueue.cpp(213)] NetQueue: Starting net action https://launchercontent.mojang.com/v2/images/IntoTheTrialChambersch8NewHome700x466transcode.jpg
+[Info: 2024-08-25 11:32:47.9300094: Dll3hFBgoCE=: ControllerInterface.cpp(106)] Running method telemetryEventUiAction
+[Info: 2024-08-25 11:32:47.9490394: FEcELsF9600=: NetQueue.cpp(213)] NetQueue: Starting net action https://launchercontent.mojang.com/v2/images/IntotheTrialChamberch4thesetting700x466.jpg
+[Info: 2024-08-25 11:32:47.9491942: FEcELsF9600=: NetQueue.cpp(213)] NetQueue: Starting net action https://launchercontent.mojang.com/v2/images/EditoriallauncherTrickyTrialslaunch700x466.jpg
+[Info: 2024-08-25 11:32:47.9492619: FEcELsF9600=: NetQueue.cpp(213)] NetQueue: Starting net action https://launchercontent.mojang.com/v2/images/ttreleasedate700x466.jpg
+[Info: 2024-08-25 11:32:47.9493071: FEcELsF9600=: NetQueue.cpp(213)] NetQueue: Starting net action https://launchercontent.mojang.com/v2/images/JavaMap10Years700x466B.jpg
+[Info: 2024-08-25 11:32:47.9493445: FEcELsF9600=: NetQueue.cpp(213)] NetQueue: Starting net action https://launchercontent.mojang.com/v2/images/shape700x4661.jpg
+[Info: 2024-08-25 11:32:47.9873418: Dll3hFBgoCE=: ControllerInterface.cpp(106)] Running method setStore
+[Info: 2024-08-25 11:32:47.9946680: FEcELsF9600=: CurlNetQueue.cpp(578)] NetQueue: Primary ip: 2620:1ec:bdf::60, Host: launchercontent.mojang.com
+[Info: 2024-08-25 11:32:47.9947720: FEcELsF9600=: NetQueue.cpp(102)] NetQueue: Action finished: https://launchercontent.mojang.com/v2/images/IntoTheTrialChambersch8NewHome700x466transcode.jpg
+
+
+
+
+
+
+
+sessionserver.mojang.com/blockedservers
+
+HTTP/2 200 OK
+Date: Sun, 25 Aug 2024 11:34:39 GMT
+Content-Type: text/plain
+Content-Length: 98235
+Cache-Control: max-age=300
+X-Minecraft-Request-Id: 1c759d505ea7d1d3
+X-Azure-Ref: 20240825T113439Z-158c5d5dcb88ldk5f178eq7uq0000000052000000000vh9r
+X-Fd-Int-Roxy-Purgeid: 0
+X-Cache: TCP_HIT
+Accept-Ranges: bytes
+
