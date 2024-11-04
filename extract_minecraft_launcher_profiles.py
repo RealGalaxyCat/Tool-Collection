@@ -6,7 +6,7 @@ APPDATA = os.getenv("APPDATA")
 
 
 
-# Funktioniert nicht, vielleicht nur bei Minecraft welches von Mojang heruntergeladen wurde?
+# Funktioniert nicht, vielleicht nur bei Minecraft welches von Mojang und nicht vom Microsoft store heruntergeladen wurde?
 
 auth_db = json.loads(open(APPDATA + "\\.minecraft\\launcher_profiles.json").read())# ["authenticationDatabase"]
 print(auth_db)
